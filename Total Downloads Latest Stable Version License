@@ -1,0 +1,361 @@
+[33mcommit 55f0719ac41b4204f676738e7c79adb6d981e70e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Sun Sep 6 11:24:02 2020 +0200
+
+    pestcontrol service
+
+[33mcommit baf53a94788dfba6768a88d7c0d2eecbab510eba[m
+Merge: 331e285 7956e2b
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Sun Sep 6 11:23:47 2020 +0200
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService into master
+
+[33mcommit 331e285aec633a92fdb9eb5e7f8058b433c7903e[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Sun Sep 6 11:20:14 2020 +0200
+
+    pestcontrol service
+
+[33mcommit 7956e2b04643fdc67c7090128d0720f2aae256aa[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Sun Sep 6 04:37:09 2020 -0400
+
+    Homepage adjust style
+
+[33mcommit cba1db6eca50f03f869ad1e5f184dfec7710514e[m
+Merge: dbde331 d3a0e35
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Thu Sep 3 10:47:33 2020 -0400
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService
+
+[33mcommit dbde331118b4818156307cab761dc24c79478d55[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Thu Sep 3 10:47:14 2020 -0400
+
+    Services Style Fixed  🎨
+
+[33mcommit d3a0e354416d2cb733105887634374143cae1022[m
+Merge: 2e617b3 0a867a6
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Sep 3 16:22:31 2020 +0200
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService into master
+
+[33mcommit 2e617b38a1a2de477efc7052ca98a4c7c1facf03[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Sep 3 16:22:06 2020 +0200
+
+    PestControl service
+
+[33mcommit 0a867a6ec32d9760b25b09d463ad8d9a2d2d572c[m
+Merge: f801f59 ba0c47f
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Thu Sep 3 10:18:36 2020 -0400
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService
+
+[33mcommit f801f59c3aac7f15180516a9af907c11fb500ca4[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Thu Sep 3 10:18:11 2020 -0400
+
+    Last touch (home page) 🚧
+
+[33mcommit ba0c47fcce3bb47944d654f557bf0c7aa70a75d5[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Sep 3 14:31:32 2020 +0200
+
+    PestControl service
+
+[33mcommit 0a110d9b6aacaaae723991569e6af7d801c23509[m
+Merge: 10ac99d f50ffff
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Wed Sep 2 11:36:13 2020 -0400
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService
+
+[33mcommit 10ac99df387104ec10c7a3bd058f33f73765475f[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Wed Sep 2 11:35:39 2020 -0400
+
+    Our Process Section Complete 🎨
+
+[33mcommit f50ffff62ca4d84fbf65912f93cd83058a6e5c9e[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Wed Sep 2 17:08:55 2020 +0200
+
+    HouseHold service
+
+[33mcommit 415d8531121a5673fef5ac77232fdfa943e93637[m
+Merge: 290ff32 eea8ee7
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Wed Sep 2 16:49:07 2020 +0200
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService into master
+
+[33mcommit 290ff3228cbd44eedf832e984883001af6d35c90[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Wed Sep 2 16:48:43 2020 +0200
+
+    HouseHold service
+
+[33mcommit eea8ee7c5f1484946566f0ef6dd496274c1e7ff8[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Wed Sep 2 10:48:20 2020 -0400
+
+    Edit pages Styles 🚀
+
+[33mcommit c59cd7b2fb4f3f8565a04486bee89040eb01c1e0[m
+Merge: 000019e 3256ba5
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Wed Sep 2 16:07:03 2020 +0200
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService into master
+
+[33mcommit 000019e36845bc60ff90bb26b95a663f68b9896e[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Wed Sep 2 16:06:45 2020 +0200
+
+    beautyforher service
+
+[33mcommit 3256ba5bfc95371373b7704e167fbb78303c48ad[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Wed Sep 2 10:04:17 2020 -0400
+
+    🔥 useless images removed & 🎨 Style Fixed
+
+[33mcommit f5f57391ffd3d523d793cef69ec2e84ef9cf6e6a[m
+Merge: 007a150 1703e69
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Wed Sep 2 09:54:00 2020 -0400
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService
+
+[33mcommit 007a15083809f9aabc467d6d9f869faf60e9dc82[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Wed Sep 2 09:51:14 2020 -0400
+
+    Home Page Done 🎨🔥🐛
+
+[33mcommit 1703e6944cde4bf715caaca8db1a53105d93f76d[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Wed Sep 2 15:43:39 2020 +0200
+
+    HouseHold service
+
+[33mcommit b8dc37bf3bb7c32d231cfde9733cf6e74bc4df43[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 19:36:42 2020 +0200
+
+    Fix style in home page --remove the comment
+
+[33mcommit 7f81f74da3433de9bfe918c35806062bf7f6592e[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 19:10:41 2020 +0200
+
+    HouseHold service
+
+[33mcommit f9d2ca9ed40d925743c73d8679b5d7ebf9f2f5f5[m
+Merge: 9dabc87 fbaee8a
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 17:35:41 2020 +0200
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService into master
+
+[33mcommit 9dabc8725c0dc9e4db7e09a252c114e5cf4654a3[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 17:34:31 2020 +0200
+
+    HouseHold service
+
+[33mcommit fbaee8abd0e744590fa82eac2d6db1d74bed427f[m
+Merge: 284bb52 eaa3ed5
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Tue Sep 1 11:32:16 2020 -0400
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService
+
+[33mcommit 284bb522b4287a4d5104b24ba8c60475e547ba5f[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Tue Sep 1 11:30:02 2020 -0400
+
+    Home Page Adujsted & Style Fixed ⚡️🎨🚩
+
+[33mcommit eaa3ed5cef50f810c6b594796a4f505bfa788660[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 16:41:01 2020 +0200
+
+    HouseHold service
+
+[33mcommit 07315653705daba8554bc8b3f80336a069a2b4e9[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 16:14:43 2020 +0200
+
+    household  service
+
+[33mcommit 409f06bf7945eee9dcc50bdb8133fabe49c0d07b[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 16:14:34 2020 +0200
+
+    HouseHold service
+
+[33mcommit 45409bb92655549917e8db4090266c6d0fcc1e4f[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 15:11:47 2020 +0200
+
+    beautyforher service
+
+[33mcommit 4243fdd821c304e0954df423b328ef831a001eea[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 15:11:27 2020 +0200
+
+    household  service
+
+[33mcommit 918e76382b714c3cbc87d7bdc7969eaf917d6520[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 13:46:49 2020 +0200
+
+    beautyforher service
+
+[33mcommit a6ea5dd9cc0f172add9f5b772bd2e9f434012bf4[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 11:59:16 2020 -0700
+
+    fulltime maid service info page
+
+[33mcommit eb82ae3202ca853a15a4cb6bd5d6f0c7feb99976[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Tue Sep 1 11:44:06 2020 -0700
+
+    beautyforher service
+
+[33mcommit f8a0fa9d6a8fe35db1bfa35e064672e5d50dd6ca[m
+Merge: cef4939 3892c22
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Mon Aug 31 11:33:25 2020 -0400
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService
+
+[33mcommit 3892c22b21bb1dcfb02c5f7b267c972c8d8ea242[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Mon Aug 31 17:24:49 2020 -0700
+
+    beautyforher service admin
+
+[33mcommit 41d59e55264f791f05e0f08b2e0b6dfda717d5c5[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Mon Aug 31 15:53:08 2020 -0700
+
+    beautyforher service
+
+[33mcommit 7b4fd001af78fe3291d8d2dd97a4ef06fb6b6cd2[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Mon Aug 31 10:24:37 2020 -0700
+
+    beauty for her service
+
+[33mcommit cef493995b698ab15e002131da00c82b63e6dc27[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Mon Aug 31 11:33:02 2020 -0400
+
+    Homepage modified 🎨🚀
+
+[33mcommit 0f772afb8ee16fbb9b1482b1fa5339e2e9f8b300[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Sun Aug 30 18:41:13 2020 -0700
+
+    beauty for her service
+
+[33mcommit 3926892082daa692aceb7579ce8c66c9851dce3d[m
+Merge: 8641de9 f8f67aa
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Sun Aug 30 18:40:42 2020 -0700
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService into master
+
+[33mcommit 8641de97f8ca765248461729ea52fb2edf3b8d78[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Sun Aug 30 18:39:08 2020 -0700
+
+    beauty for her service
+
+[33mcommit 8324da9b2ada273478d862b962b3342be6229c0f[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Sun Aug 30 14:28:37 2020 -0700
+
+    beauty for her servic
+
+[33mcommit f8f67aa9049e320de477b4d0471390abb34d1f01[m
+Merge: 8a41409 8324da9
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Sun Aug 30 11:30:18 2020 -0400
+
+    Merge branch 'master' of https://github.com/HannaKamil/KoloService
+
+[33mcommit 8a4140975b9037ec3c3b5dd0b5b294d252f08552[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Sun Aug 30 11:29:55 2020 -0400
+
+    Main page Edited
+
+[33mcommit d96b65219df9f8e47474bd0cceac7c666fa9a862[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Thu Aug 27 11:54:11 2020 -0400
+
+    Home blade fixed
+
+[33mcommit 7383228ee66ba1714bd41270e44b65b0e57fd8f7[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Aug 27 17:47:39 2020 -0700
+
+    editings
+
+[33mcommit 9c0f821bdf9d2529f3fcaa000331e14f7e54b912[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Aug 27 17:36:26 2020 -0700
+
+    beauty for her service
+
+[33mcommit 078bd7dcae281e1905ecb1f5d3ff130d8197db93[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Aug 27 17:35:45 2020 -0700
+
+    beauty for her service
+
+[33mcommit f5bc3864b8576f4da3a3d5e7a6ef8651cbace09b[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Aug 27 17:34:23 2020 -0700
+
+    beauty for her service
+
+[33mcommit d0863ecdba27b75f46cf53e4c0ea4d014fa8a5e6[m
+Merge: f383603 7f331cc
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Aug 27 17:31:32 2020 -0700
+
+    beauty for her service
+
+[33mcommit f38360363cb283b310a0ec93a9da98fed8f716c8[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Thu Aug 27 17:30:46 2020 -0700
+
+    beauty for her service
+
+[33mcommit 7f331cccfe4140f7b44e06e2f84fda620697c934[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Thu Aug 27 11:07:27 2020 -0400
+
+    init again 🔥
+
+[33mcommit 44a92c25fa3792fd7371ae2b671389ec4f4eadb8[m
+Author: Challengeromar <59598510+challengeromar97@users.noreply.github.com>
+Date:   Thu Aug 27 05:00:03 2020 -0400
+
+    init 🔥
+
+[33mcommit e308e4b9f51a6829a8edcc84f7900a63869fa973[m
+Author: HannaKamil <hanna.kamil144@gmail.com>
+Date:   Wed Aug 26 16:26:53 2020 -0700
+
+    first commit
